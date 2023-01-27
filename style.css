@@ -1,0 +1,123 @@
+ html,body {
+    width: auto;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    background-color: darkgrey;
+    
+}
+
+.logo {
+    width: 90%;
+    height: 50%;
+    font-size: 3vh;
+    
+}
+
+.nava_novo {
+    width: 50%;
+    height: 70%;
+    display: flex;
+    justify-items: right;
+    padding-left: 65%;
+}
+
+header {
+    width: 65%;
+    height: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+
+
+
+.header_image {
+    margin-top: 50%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 63px;
+    font-weight: bolder;
+}
+
+.header_paragraph {
+    height: 50%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+   
+} 
+
+.header_list {
+    margin-top: 5px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 3vh;
+    padding-left: 15px;
+}
+
+
+
+.top_image_logo {
+    width: 75rem;
+    height: 45rem;
+    display: flex;
+    padding: 250px 100px;
+}
+
+
+.foto_logo {
+    display: flex;
+    padding-top: 20%;
+    padding-left: 5px;
+    justify-content: space-between;
+}
+
+.logo_my{
+    display: flex;
+    padding-left: 65%;
+}
+
+.info_man {
+    display: flex;
+    align-items: center;
+}
+
+.div_block {
+    height: 90%;
+    width: 50%;
+    margin: 5em;
+    position:absolute;
+    padding-bottom: 20%;
+}
+
+
+.modem_mod {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+
+.publik_fox {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.sous_suz {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div_practik {
+    width: 100%;
+    height: 100%;
+    margin: 10%;
+    font-size: 28px;
+}
+
+.footer_well {
+    padding: 20px;
+    margin: 20px;
+}
